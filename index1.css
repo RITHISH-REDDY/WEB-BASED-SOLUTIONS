@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-head {
+    background-color: beige;
+    height: 100vh;
+}
+.main-page{
+    background-color: beige;
+}
+.p1-head {
+    font-size: 150px;
+    margin: 10px;
+
+}
+
+.teststyle{
+    font-family: "caveat";
+    text-align: center;
+}
+
+.p1-para {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.know-more {
+    font-size: 40px;
+    color: brown;
+}
+
+.more-btn {
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 0px;
+    background-color: rgb(222, 222, 235);
+    color: rgba(248, 55, 6, 0.957);
+}
+.lasttt{
+    background-color: beige;
+}
+.proimg {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.secondpage-head {
+    color: black;
+    font-size: 50px;
+    font-family: "roboto";
+}
+
+.secondpage-para {
+    color: black;
+    font-size: 25px;
+    font-family: "roboto";
+}
+
+.mainpg2 {
+    background-color: black;
+    height: 100vh;
+    text-align: center;
+}
+
+.mainpg-h2 {
+    color: #fff;
+    font-size: 70px;
+    font-family: "caveat";
+}
+
+.mainpg-p2 {
+    color: #fff;
+    font-size: 20px;
+    font-family: "caveat";
+}
+
+.icon-backg {
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 25px;
+    background-color: rgb(157, 165, 166);
+    padding-top: 12px;
+    margin: 3px;
+}
+
+.icon {
+    font-size: 25px;
+}
+
+.page2{
+    color: #fff;
+}
